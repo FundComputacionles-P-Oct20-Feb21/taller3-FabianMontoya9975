@@ -1,1 +1,7 @@
-Resolución de algoritmo 1
+1. Inicio.
+2. Se pide la base del triángulo.
+3. Se pide la altura del triángulo.
+4. Se multiplica base por altura.
+5. Se realiza la división del producto para 2.
+6. Se presenta en pantalla el resultado del area del triángulo.
+7. Fin.

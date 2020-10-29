@@ -1,0 +1,7 @@
+1. Inicio.
+2. Se pide ingresar el gasto del primer hijo.
+3. Se pide ingresar el gasto del segundo hijo.
+4. Se pide ingresar el gasto del tercer hijo.
+5. Se suman los gastos de los tres hijos.
+6. Se presenta en pantalla el total de la suma de los gastos.
+7. Fin.
