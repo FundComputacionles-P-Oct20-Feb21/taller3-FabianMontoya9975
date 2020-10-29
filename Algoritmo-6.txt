@@ -1,0 +1,7 @@
+1. Inicio.
+2. Se pide ingresar el monto del préstasmo.
+3. Se pide ingresar el interés mensual a cobrar.
+4. Se divide el monto del prestamo para 12.
+5. Se suma el resultado de la suma con el valor del interes.
+6. Se muestra en pantalla El resultado de la suma como el pago mensual a realizarse.
+7. Fin.

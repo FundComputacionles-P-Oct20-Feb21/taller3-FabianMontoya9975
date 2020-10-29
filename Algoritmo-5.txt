@@ -1,0 +1,8 @@
+1. Inicio.
+2. Se pide ingresar el costo del CPU.
+3. Se pide ingresar el costo del teclado.
+4. Se pide ingresar el costo de la pantalla.
+5. Se pide ingresar el costo del ratón.
+6. Se suman los costos de las piezas.
+7. Se presenta en pantalla el resultado de la suma como el costo de la computadora de escritorio.
+8. Fin.

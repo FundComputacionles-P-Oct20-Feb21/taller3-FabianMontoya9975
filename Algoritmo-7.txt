@@ -1,0 +1,8 @@
+1. Inicio.
+2. Se pide ingresar la edad del usuario.
+3. Se pide ingresar el costo del kilovatio/hora.
+4. Se pide ingresar el número de kilovatios consumidos en el mes.
+5. Se calcula el valor de la planilla multiplican el costo del kilovatio/hora por el número de kilovatios consumidos en el mes.
+6. Se calcula el 10% y se resta al valor total de la planilla si el usuario tiene más de 65 años de edad.
+7. Se presenta en pantalla el valor final de la planilla.
+8. Fin.

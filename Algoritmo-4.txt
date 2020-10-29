@@ -1,0 +1,6 @@
+1. Inicio.
+2. Se pide ingresar el costo por minutos.
+3. Se pide ingresar el numero de minutos consumidos en el mes.
+4. Se calcula el valor de la planilla multiplicando el costo por los minutos consumidos.
+5. Se presenta en pantalla el producto de la multiplicación como valor final de la planilla.
+6. Fin
