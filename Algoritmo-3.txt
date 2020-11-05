@@ -1,5 +1,5 @@
 1. Inicio.
-2. Se pide ingresar un número en 2 y 6.
+2. Se pide ingresar un número entre 2 y 6.
 3. Se multiplica del valor ingresado por los los numeros naturales desde el 1 hasta el 12.
 4. Se muestra en pantalla todos los resultados de las multiplicaciones.
 5. Fin.
